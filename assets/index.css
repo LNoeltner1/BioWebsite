@@ -1,7 +1,29 @@
-nav .navbar-brand {
+.navbar-brand {
     color: teal;
 }
 
 body {
     background-image: url(../ignasi_pattern1.png);
+    text-align: left;
+}
+
+.mr-3 {
+    max-height: 300px;
+    max-width: 200px;
+    float: left;
+    margin: 10px;
+    position: relative;
+}
+
+.col-lg-8 {
+    float: right;
+    position: relative;
+    text-align: left;
+}
+
+.container {
+    background-color: white;
+    border: 3px;
+    border-style: solid;
+    border-color: teal;
 }
