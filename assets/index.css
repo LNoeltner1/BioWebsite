@@ -1,3 +1,7 @@
+nav .navbar-brand {
+    color: teal;
+}
+
 body {
-    background-image: url(.\ignasi_pattern1.png);
+    background-image: url(../ignasi_pattern1.png);
 }
