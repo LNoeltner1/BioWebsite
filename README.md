@@ -8,7 +8,7 @@ This project was done as an exercise in Bootstrap and CSS assigned by my instruc
 
 ## Screenshot Example
 
-![Bio Page Screenshot](https://imgur.com/a/XLdDS01)
+![Bio Page Screenshot](https://imgur.com/qIXZpSt)
 
 ==========
 
