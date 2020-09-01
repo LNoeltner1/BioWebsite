@@ -67,12 +67,22 @@ form {
 
 /* Submit Button Contact Page */
 
-.btn btn-primary {
+.btn_btn-primary {
   min-width: 150px;
   background: #299be4;
   border: none;
   min-height: 38px;
   border-radius: 2px;
+}
+
+/* Social Media Link Buttons next to "Contact" header */
+
+.linkedinlink,
+.githublink {
+  float: right;
+  color: teal;
+  background-color: whitesmoke;
+  margin-top: 20px;
 }
 
 /* Footer */
