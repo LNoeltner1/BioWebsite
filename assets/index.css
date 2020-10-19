@@ -73,7 +73,7 @@ h1 {
 
 /* caption text */
 
-#captionText {
+.captionText {
   color: rgb(27, 27, 27);
   font-size: 12px;
   text-align: center;
