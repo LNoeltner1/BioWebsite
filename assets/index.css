@@ -48,7 +48,6 @@ body {
   border-style: solid;
   border-color: teal;
   min-height: 100%;
-  margin-bottom: -50px;
   border-radius: 7px;
 }
 
@@ -83,7 +82,7 @@ h1 {
 
 form {
   padding: 50px;
-  margin: 30px 0;
+  margin: 30px;
 }
 
 /* Submit Button Contact Page */
@@ -113,16 +112,17 @@ form {
 
 /* Footer */
 
-.footer {
-  text-align: center;
+.page-footer {
   background-color: white;
-  font-style: italic;
   border-top-style: solid;
   border-color: teal;
-  padding-top: 5px;
+  margin-top: 500px;
 }
 
 #footText {
   font-size: 14px;
   font-weight: 400;
+  text-align: center;
+  font-style: italic;
+  padding: 20px;
 }
