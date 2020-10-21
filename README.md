@@ -4,7 +4,7 @@ Lauren Noeltner's Professional Website
 
 ## Description
 
-I wanted to create and style a three-page, responsive, professional website for myself that included a biography page, a portfolio page, and a contact me page.
+I wanted to create and style a responsive, professional website for myself.
 
 ## Screenshot Example
 
