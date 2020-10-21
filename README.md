@@ -8,7 +8,7 @@ I wanted to create and style a three-page, responsive, professional website for 
 
 ## Screenshot Example
 
-![Screenshot](assets\Images\bio_screenshot.png)
+![Screenshot](assets/Images/bio_screenshot.png)
 
 ==========
 
