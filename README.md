@@ -1,6 +1,6 @@
-## Lauren Noeltner's Bio Page
+## Title
 
-==========
+Lauren Noeltner's Professional Website
 
 ## Description
 
